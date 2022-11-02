@@ -1,0 +1,35 @@
+
+body {
+    width: min(100% - 2rem, 400px);
+    margin-inline: auto;
+    margin-block: 7rem;
+    
+    font-family: monospace;
+  }
+
+.org-center {
+    margin-inline: auto;
+    text-align: center;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h3 {
+    margin-top: 40em;
+}
+
+ul {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+li {
+    list-style-type: "├─ ";
+}
+
+li:last-child {
+    list-style-type: "└─ ";
+}
