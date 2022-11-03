@@ -6,9 +6,9 @@
 #+OPTIONS: ^:nil title:nil
 
 #+BEGIN_CENTER
-Bienvenido a mi pagina!
+Bienvenido a mi pagina! 
 
- \\
+\\
 
 #+ATTR_HTML: :width 100px :style border:1em;
 #+ATTR_LATEX:
@@ -21,11 +21,13 @@ Bienvenido a mi pagina!
 
 
 * Sobre Luis Galindo
-Luis Galindo es un estudiante de cuarto semestre en ingeniería en software en UABC, con un gusto por la lectura, las ciencias y el software. Looking for answers...
+Luis Galindo es un estudiante de cuarto semestre en ingeniería en 
+software en UABC, con un gusto por la lectura, las ciencias y el 
+software. Looking for answers...
 
 -----
 
-[[Proyectos]] - [[Devblog]] - [[Apuntes]]
+[[Proyectos]] - [[Devblog]] - [[Apuntes]] - [[Contacto]]
 
 
 ** Proyectos
@@ -34,14 +36,10 @@ libre, puedes encontrar más de mis proyectos en mi [[https://github.com/Galindo
 
 -----
 
-\\
-
 *** Implementaciones
 - [[https://github.com/Galindo-lab/eigenmath-web][Eigenmath web]]
 - [[https://github.com/Galindo-lab/quine-mccluskey-python][Metodo de Quine-McCluskey]]
 - [[https://github.com/Galindo-lab/static-site-generator][Generador de sitios estáticos]]
-
-\\
 
 *** Configs
 - [[https://github.com/Galindo-lab/linux-mint-rofi-themes][Linux mint Rofi themes]]
@@ -55,4 +53,7 @@ Próximamente...
 ** Apuntes
 Próximamente…
 
+
+** Contacto
+egalindo54@uabc.edu.mx
 

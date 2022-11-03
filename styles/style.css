@@ -17,7 +17,8 @@ h1, h2 {
 }
 
 h3 {
-    margin-top: 40em;
+    /* margin-top: 40em; */
+    margin-top: 100vh;
 }
 
 ul {
@@ -32,4 +33,22 @@ li {
 
 li:last-child {
     list-style-type: "└─ ";
+}
+
+hr {
+    border: 0;
+    border-bottom: 1px solid;
+}
+
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: white;
+    }
 }
