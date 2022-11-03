@@ -3,22 +3,16 @@
 #+DATE:   01-11-2022
 
 #+INCLUDE: "./includes/template.org"
-#+OPTIONS: ^:nil title:nil
+#+OPTIONS: ^:nil title:nil 
 
 #+BEGIN_CENTER
 Bienvenido a mi pagina! 
 
-\\
-
-#+ATTR_HTML: :width 100px :style border:1em;
+#+ATTR_HTML: :width 100px :style margin:1em;
 #+ATTR_LATEX:
 #+CAPTION:
 [[./resourses/qr-code.png]] 
-
-\\
-
 #+END_CENTER
-
 
 * Sobre Luis Galindo
 Luis Galindo es un estudiante de cuarto semestre en ingeniería en 
@@ -28,7 +22,6 @@ software. Looking for answers...
 -----
 
 [[Proyectos]] - [[Devblog]] - [[Apuntes]] - [[Contacto]]
-
 
 ** Proyectos
 Estos son algunos de los proyectos que me gusta hacer en mi tiempo 
@@ -45,15 +38,11 @@ libre, puedes encontrar más de mis proyectos en mi [[https://github.com/Galindo
 - [[https://github.com/Galindo-lab/linux-mint-rofi-themes][Linux mint Rofi themes]]
 - [[https://github.com/Galindo-lab/.emacs.d][.emacs.d]]
 
-
 ** Devblog
 Próximamente...
-
 
 ** Apuntes
 Próximamente…
 
-
 ** Contacto
 egalindo54@uabc.edu.mx
-
