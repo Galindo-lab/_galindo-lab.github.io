@@ -20,8 +20,14 @@ software en UABC, con un gusto por la lectura, las ciencias y el
 software. Looking for answers...
 
 -----
-
+#+BEGIN_CENTER
 [[Proyectos]] - [[Devblog]] - [[Apuntes]] - [[Contacto]]
+#+END_CENTER
+
+\\
+\\
+\\
+\\
 
 ** Proyectos
 Estos son algunos de los proyectos que me gusta hacer en mi tiempo 
@@ -45,4 +51,5 @@ Próximamente...
 Próximamente…
 
 ** Contacto
-egalindo54@uabc.edu.mx
+email: [[mailto:egalindo54@uabc.edu.mx]] \\
+github: https://github.com/galindo-lab

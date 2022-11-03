@@ -12,6 +12,10 @@ body {
     text-align: center;
 }
 
+.outline-text-2 {
+    margin-bottom: 100vh;    
+}
+
 h1, h2 {
     text-align: center;
 }
