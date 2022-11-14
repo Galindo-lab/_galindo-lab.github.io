@@ -25,9 +25,6 @@ software. Looking for answers...
 #+END_CENTER
 
 \\
-\\
-\\
-\\
 
 ** Proyectos
 Estos son algunos de los proyectos que me gusta hacer en mi tiempo 

@@ -13,7 +13,11 @@ body {
 }
 
 .outline-text-2 {
-    margin-bottom: 100vh;    
+    /* margin-bottom: 100vh;     */
+}
+
+p{
+    text-indent: 1.5rem;
 }
 
 h1, h2 {
