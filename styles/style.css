@@ -1,6 +1,6 @@
 
 body {
-    width: min(100% - 2rem, 400px);
+    width: min(100% - 2rem, 420px);
     margin-inline: auto;
     margin-block: 7rem;
     
@@ -12,21 +12,8 @@ body {
     text-align: center;
 }
 
-.outline-text-2 {
-    /* margin-bottom: 100vh;     */
-}
-
-p{
-    text-indent: 1.5rem;
-}
-
 h1, h2 {
     text-align: center;
-}
-
-h3 {
-    /* margin-top: 40em; */
-    /* margin-top: 100vh; */
 }
 
 ul {

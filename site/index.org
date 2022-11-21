@@ -5,6 +5,7 @@
 #+INCLUDE: "./includes/template.org"
 #+OPTIONS: ^:nil title:nil 
 
+
 #+BEGIN_CENTER
 Bienvenido a mi pagina! 
 
@@ -23,8 +24,7 @@ software. Looking for answers...
 #+BEGIN_CENTER
 [[Proyectos]] - [[Devblog]] - [[Apuntes]] - [[Contacto]]
 #+END_CENTER
-
-\\
+-----
 
 ** Proyectos
 Estos son algunos de los proyectos que me gusta hacer en mi tiempo 
@@ -39,13 +39,21 @@ libre, puedes encontrar más de mis proyectos en mi [[https://github.com/Galindo
 - [[https://github.com/Galindo-lab/linux-mint-rofi-themes][Linux mint Rofi themes]]
 - [[https://github.com/Galindo-lab/.emacs.d][.emacs.d]]
 
+-----
+
 ** Devblog
 Próximamente...
+
+-----
 
 ** Apuntes
 Próximamente…
 
-** Contacto
-email: [[mailto:egalindo54@uabc.edu.mx][egalindo54@uabc.edu.mx]]
+-----
 
-github: https://github.com/galindo-lab
+** Contacto
+#+ATTR_HTML: :width 100% :frame void
+| email  | [[mailto:egalindo54@uabc.edu.mx][egalindo54@uabc.edu.mx]] |
+| github | [[https://github.com/galindo-lab][galindo-lab]]           |
+
+
