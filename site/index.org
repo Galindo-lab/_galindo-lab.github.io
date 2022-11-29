@@ -31,9 +31,10 @@ Estos son algunos de los proyectos que me gusta hacer en mi tiempo
 libre, puedes encontrar más de mis proyectos en mi [[https://github.com/Galindo-lab][github]].
 
 *** Implementaciones
-- [[https://galindo-lab.github.io/eigenmath-web/][Eigenmath web]] ([[https://github.com/Galindo-lab/eigenmath-web][source]])
+- [[https://galindo-lab.github.io/eigenmath-web/][Eigenmath web]]
 - [[https://github.com/Galindo-lab/quine-mccluskey-python][Metodo de Quine-McCluskey]]
 - [[https://github.com/Galindo-lab/static-site-generator][Generador de sitios estáticos]]
+- [[https://github.com/Galindo-lab/braille-cells-C][Convertidor texto a braille]]
 
 *** Configs
 - [[https://github.com/Galindo-lab/linux-mint-rofi-themes][Linux mint Rofi themes]]
