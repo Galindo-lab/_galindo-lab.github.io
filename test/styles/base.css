@@ -1,0 +1,48 @@
+
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    margin: 0;
+    width: min(100% , 700px);
+    background-color: #F3F1E2;
+    margin-inline: auto;
+    font-size: 14px;
+}
+
+header {
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("../images/panel.jpg");
+    color: #F3F1E2;
+    padding: 1em;
+    padding-top: 200px;
+}
+
+nav {
+  padding-inline: 1em;
+  padding-block: 1em;
+  display: flex; 
+  justify-content: space-between; 
+}
+
+nav ul {
+  display: flex; 
+  list-style: none; 
+}
+
+nav li {
+    padding-left: 1rem;
+    
+}
+
+section {
+    padding-inline: 1em;
+}
+
+article {
+    padding-bottom: 1em;
+}
+
+footer {
+    border-top: 1px solid black;
+    padding: 1em;
+    display: flex;
+}
+
