@@ -3,14 +3,14 @@ body {
     font-family: 'Helvetica', 'Arial', sans-serif;
     margin: 0;
     width: min(100% , 700px);
-    background-color: #F3F1E2;
+    background-color: #FFFFFF;
     margin-inline: auto;
     font-size: 14px;
 }
 
 header {
     background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("../images/panel.jpg");
-    color: #F3F1E2;
+    color: #FFFFFF;
     padding: 1em;
     padding-top: 200px;
 }
