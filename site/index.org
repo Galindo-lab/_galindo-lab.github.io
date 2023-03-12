@@ -1,58 +1,46 @@
-#+TITLE:  Index
+#+TITLE:  galindo-lab.github.io
 #+AUTHOR: Luis Eduardo Galindo Amaya
 #+DATE:   01-11-2022
 
 #+INCLUDE: "./includes/template.org"
-#+OPTIONS: ^:nil title:nil 
+#+OPTIONS: ^:nil title:t
 
-
-#+BEGIN_CENTER
-Bienvenido a mi pagina! 
-
-#+ATTR_HTML: :width 100px :style margin:1em;
-#+ATTR_LATEX:
-#+CAPTION:
-[[./resourses/qr-code.png]] 
-#+END_CENTER
-
-* Sobre Luis Galindo
-Luis Galindo es un estudiante de cuarto semestre en ingeniería en 
-software en UABC, con un gusto por la lectura, las ciencias y el 
-software. Looking for answers...
-
------
 #+BEGIN_CENTER
 [[Proyectos]] - [[Devblog]] - [[Apuntes]] - [[Contacto]]
 #+END_CENTER
------
 
-** Proyectos
+\\ 
+\\
+
+* Proyectos
 Estos son algunos de los proyectos que me gusta hacer en mi tiempo 
 libre, puedes encontrar más de mis proyectos en mi [[https://github.com/Galindo-lab][github]].
 
-*** Implementaciones
+** Implementaciones
 - [[https://galindo-lab.github.io/eigenmath-web/][Eigenmath web]]
 - [[https://github.com/Galindo-lab/quine-mccluskey-python][Metodo de Quine-McCluskey]]
 - [[https://github.com/Galindo-lab/static-site-generator][Generador de sitios estáticos]]
 - [[https://github.com/Galindo-lab/braille-cells-C][Convertidor texto a braille]]
 
-*** Configs
+** Configs
 - [[https://github.com/Galindo-lab/linux-mint-rofi-themes][Linux mint Rofi themes]]
 - [[https://github.com/Galindo-lab/.emacs.d][.emacs.d]]
 
------
-
-** Devblog
+* Devblog
 Próximamente...
 
------
+* Apuntes
+Notas de las materias que he tomado, puedes revisar el repositorio [[https://github.com/Galindo-lab/apuntes][aquí]].
 
-** Apuntes
-Próximamente…
+** Matemáticas
+- [[https://github.com/Galindo-lab/apuntes/blob/main/algebra/algebra.pdf][Álgebra]]
+- [[https://github.com/Galindo-lab/apuntes/blob/main/calculo-diferencial/calculo-diferencial.pdf][Cálculo diferencial]]
+- [[https://github.com/Galindo-lab/apuntes/blob/main/calculo-multivariable/calculo-multivariable.pdf][Cálculo multivariable]]
 
------
+** Circuitos
+- [[https://github.com/Galindo-lab/apuntes/blob/main/circuitos-digitales/circuitos-digitales.pdf][Circuitos Digitales]]
 
-** Contacto
+* Contacto
 #+ATTR_HTML: :width 100% :frame void
 | email  | [[mailto:egalindo54@uabc.edu.mx][egalindo54@uabc.edu.mx]] |
 | github | [[https://github.com/galindo-lab][galindo-lab]]           |

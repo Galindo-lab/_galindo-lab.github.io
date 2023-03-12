@@ -12,8 +12,15 @@ body {
     text-align: center;
 }
 
-h1, h2 {
+h1 {
     text-align: center;
+    /* background-color: lavender; */
+    /* padding: 10px; */
+    /* border: 1px solid black; */
+}
+
+h2 {
+    background-color: lavender;    
 }
 
 ul {
