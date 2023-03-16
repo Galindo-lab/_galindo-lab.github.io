@@ -1,0 +1,20 @@
+
+#+TITLE:  linktree
+#+AUTHOR: Luis Eduardo Galindo Amaya
+#+DATE:   2023-03-16
+# --
+
+#+OPTIONS: toc:nil ^:nil title:nil
+
+#+INCLUDE: "./includes/template.org"
+#+OPTIONS: ^:nil title:nil
+
+#+begin_center
+#+ATTR_HTML: :width 100px
+[[./resourses/qr-code2.png]]
+\\ 
+
+galindo-lab
+
+[[mailto:egalindo54@uabc.edu.mx][email]] - [[https://github.com/galindo-lab][github]] - [[https://galindo-lab.github.io/][sitio]]
+#+end_center

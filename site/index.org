@@ -5,14 +5,19 @@
 #+INCLUDE: "./includes/template.org"
 #+OPTIONS: ^:nil title:nil
 
-#+ATTR_HTML: :width 100px
-[[file:./resourses/unnamed.jpg]]
+#+begin_export html
+<nav>
+  <a href="index.html">
+    <img alt="" src="resourses/qr-code2.png" width="50px"/>
+  </a>
 
-#+begin_nav
-[[Proyectos]] - [[Devblog]] - [[Apuntes]] - [[Contacto]]
------
-#+end_nav
-
+  <ul>
+    <li><a href="#content">Contenido</a></li>
+    <li><a href="linktree.html">Contacto</a></li>
+  </ul>
+</nav>
+<hr>
+#+end_export
 
 * Proyectos
 Estos son algunos de los proyectos que me gusta hacer en mi tiempo 
@@ -42,9 +47,5 @@ Notas de las materias que he tomado, puedes revisar el repositorio [[https://git
 ** Circuitos
 - [[https://github.com/Galindo-lab/apuntes/blob/main/circuitos-digitales/circuitos-digitales.pdf][Circuitos Digitales]]
 
-* Contacto
-#+ATTR_HTML: :width 100% :frame void
-| email  | [[mailto:egalindo54@uabc.edu.mx][egalindo54@uabc.edu.mx]] |
-| github | [[https://github.com/galindo-lab][galindo-lab]]           |
 
 

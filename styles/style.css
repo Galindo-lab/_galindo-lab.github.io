@@ -8,9 +8,33 @@ body {
     font-family: monospace;
 }
 
-.nav {
-    text-align: right;
+/* .nav { */
+/*     text-align: right; */
+/* } */
+
+nav {
+    /* padding-inline: 1em; */
+    /* padding-block: 1em; */
+    display: flex; 
+    justify-content: space-between; 
 }
+
+nav a {
+    color: var(--text-dark);
+    text-decoration: none ;
+    font-weight: bold;
+}
+
+nav ul {
+    display: flex; 
+    list-style: none; 
+}
+
+nav li {
+    padding-left: 1rem;
+    list-style-type: "";
+}
+
 
 a {
     color: black;
