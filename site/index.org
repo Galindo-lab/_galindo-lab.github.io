@@ -3,14 +3,16 @@
 #+DATE:   01-11-2022
 
 #+INCLUDE: "./includes/template.org"
-#+OPTIONS: ^:nil title:t
+#+OPTIONS: ^:nil title:nil
 
-#+BEGIN_CENTER
+#+ATTR_HTML: :width 100px
+[[file:./resourses/unnamed.jpg]]
+
+#+begin_nav
 [[Proyectos]] - [[Devblog]] - [[Apuntes]] - [[Contacto]]
-#+END_CENTER
+-----
+#+end_nav
 
-\\ 
-\\
 
 * Proyectos
 Estos son algunos de los proyectos que me gusta hacer en mi tiempo 
