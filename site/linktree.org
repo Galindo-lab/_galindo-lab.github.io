@@ -14,7 +14,12 @@
 [[./resourses/qr-code2.png]]
 \\ 
 
-galindo-lab
+#+begin_export html
+<h3>galindo-lab</h3>
 
-[[mailto:egalindo54@uabc.edu.mx][email]] - [[https://github.com/galindo-lab][github]] - [[https://galindo-lab.github.io/][sitio]]
+[<a href="mailto:egalindo54@uabc.edu.mx">email</a>]
+[<a href="https://github.com/galindo-lab">github</a>]
+[<a href="https://galindo-lab.github.io/">sitio</a>]
+#+end_export
+
 #+end_center

@@ -4,8 +4,8 @@ body {
     margin-inline: auto;
     /* margin-left: auto; */
     margin-block: 7rem;
-    
     font-family: monospace;
+    line-height: 1.5em;
 }
 
 /* .nav { */
