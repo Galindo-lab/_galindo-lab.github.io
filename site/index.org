@@ -28,6 +28,7 @@ libre, puedes encontrar más de mis proyectos en mi [[https://github.com/Galindo
 - [[https://github.com/Galindo-lab/quine-mccluskey-python][Metodo de Quine-McCluskey]]
 - [[https://github.com/Galindo-lab/static-site-generator][Generador de sitios estáticos]]
 - [[https://github.com/Galindo-lab/braille-cells-C][Convertidor texto a braille]]
+- [[https://galindo-lab.github.io/calculadora-de-equivalencia/][Calculadora de equivalencia]]
 
 ** Configs
 - [[https://github.com/Galindo-lab/linux-mint-rofi-themes][Linux mint Rofi themes]]
