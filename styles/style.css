@@ -4,7 +4,7 @@ body {
     margin-inline: auto;
     margin-block: 7rem;
     font-family: monospace;
-    line-height: 1.5em;
+    line-height: 2em;
 }
 
 nav {
@@ -20,12 +20,6 @@ nav ul {
 nav li {
     padding-left: 1rem;
     list-style-type: "";
-}
-
-a {
-    font-weight: bold;
-    color: black;
-    text-decoration: none ;
 }
 
 .org-center {
@@ -61,4 +55,18 @@ li {
 hr {
     border: 0;
     border-bottom: 1px solid;
+}
+
+a {
+    font-weight: bold;
+    color: black;
+    text-decoration: none ;
+}
+
+a[href^="http"]::before {
+  content: "[";
+}
+
+a[href^="http"]::after {
+  content: "]";
 }

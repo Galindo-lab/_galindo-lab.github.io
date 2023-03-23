@@ -12,8 +12,8 @@
   </a>
 
   <ul>
-    <li><a href="#content">[Contenido]</a></li>
-    <li><a href="linktree.html">[Contacto]</a></li>
+    <li><a href="#content">Contenido</a></li>
+    <li><a href="linktree.html">Contacto</a></li>
   </ul>
 </nav>
 <hr>
@@ -34,11 +34,11 @@ libre, puedes encontrar más de mis proyectos en mi [[https://github.com/Galindo
 - [[https://github.com/Galindo-lab/linux-mint-rofi-themes][Linux mint Rofi themes]]
 - [[https://github.com/Galindo-lab/.emacs.d][.emacs.d]]
 
-* Devblog
+* COMMENT Devblog
 Próximamente...
 
 * Apuntes
-Notas de las materias que he tomado, puedes revisar el repositorio [[https://github.com/Galindo-lab/apuntes][aquí]].
+Notas que suelo tomar para mis clases, puedes revisar el repositorio [[https://github.com/Galindo-lab/apuntes][aquí]].
 
 ** Matemáticas
 - [[https://github.com/Galindo-lab/apuntes/blob/main/algebra/algebra.pdf][Álgebra]]

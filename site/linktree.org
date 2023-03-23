@@ -10,16 +10,13 @@
 #+OPTIONS: ^:nil title:nil
 
 #+begin_center
-#+ATTR_HTML: :width 100px
-[[./resourses/qr-code2.png]]
-\\ 
 
 #+begin_export html
-<h3>galindo-lab</h3>
-
-[<a href="mailto:egalindo54@uabc.edu.mx">email</a>]
-[<a href="https://github.com/galindo-lab">github</a>]
-[<a href="https://galindo-lab.github.io/">sitio</a>]
+<h2>galindo-lab</h2>
 #+end_export
 
+#+ATTR_HTML: :width 75px
+[[./resourses/qr-code2.png]]
+
+[[https://github.com/galindo-lab][github]] [[https://galindo-lab.github.io/][sitio]] [[mailto:egalindo54@uabc.edu.mx][email]] 
 #+end_center
