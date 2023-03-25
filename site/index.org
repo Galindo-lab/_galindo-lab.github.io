@@ -32,7 +32,7 @@ libre, puedes encontrar más de mis proyectos en mi [[https://github.com/Galindo
 
 ** Configs
 - [[https://github.com/Galindo-lab/linux-mint-rofi-themes][Linux mint Rofi themes]]
-- [[https://github.com/Galindo-lab/.emacs.d][.emacs.d]]
+- [[https://github.com/Galindo-lab/.emacs.d][./emacs.d]]
 
 * COMMENT Devblog
 Próximamente...
