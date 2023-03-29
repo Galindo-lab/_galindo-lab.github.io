@@ -1,41 +1,45 @@
 
-
 <!doctype html>
 <html lang="es">
   <head>
+    <!-- encodeado del texto -->
     <meta charset="UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link href="styles/base.css" rel="stylesheet">
-    
-    <title>Libro y Zines Corrientes</title>
 
-    <style>
-      
-      .title-page {
-          background: linear-gradient(rgba(15,15,15,0.4),rgba(15,15,15,15.7)),url("./images/panel.jpg");
-          color: var(--text-white);
-          padding-top: 300px;
-      }
-      
-    </style>
-    
+    <!-- esta etiqueta hace que el contenido se vea mejor en telefonos -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- aqui estan los estilos de la pagina,
+         para cambiar los colores y el estilo de la pagina
+         el lenguaje que se usa se llama 'CSS'-->
+    <link href="styles/base.css" rel="stylesheet">
+
+    <!-- titulo en la pestaña del navegador -->
+    <title>Libro y Zines Corrientes</title>
   </head>
-  <body>
+
+  <!-- cuerpo de la pagina -->
+  <body>    
     <nav>
+      <!--
+          Esta es la barrita de arriba, donde esta el logo
+          y lo de contenido, directorio y contacto
+        -->
       <a href="index.html">
         <img alt="" src="images/logo.png" width="50px"/>
       </a>
       
       <ul>
-        <li><a href="#content">Contenido</a></li>
-        <li><a href="directorio.html">Directorio</a></li>
+        <li><a href="#content">Contenido</a></li> <!-- Este es un link dentro del archivo -->
+        <li><a href="directorio.html">Directorio</a></li> <!-- este es un link a otra pagina -->
         <li><a href="linktree.html">Contacto</a></li>
       </ul>
     </nav>
 
     
     <header class="title-page">
-      <h1>Libros y Zines Corrientes</h1>
+      <!-- esta es la seccion con la imagen, para mas informacion
+        buscar en el archivo './styles/base.css' -->
+      <h1>Libros y Zines Corrientes</h1> <!-- este es un titulo -->
 
       <i>pensamiento libre no dogmas </i>
       <br/>
@@ -43,45 +47,46 @@
     </header>
 
 
+    
     <article>
 
+      <!-- este es una etiqueta para el link interno en el nav -->
       <a id="content"></a>
 
+      <section>
+        <h2>Hola</h2> <!-- subtitulo -->
+        <p>
+          Auctor elit sed vulputate mi sit amet mauris commodo quis. Lobortis feugiat vivamus at augue eget arcu dictum varius duis at consectetur lorem donec massa sapien, faucibus et molestie ac.  
+        </p>
+      </section>
+
+      <section>
+        <h2>Adios</h2>
+
+        <p>
+          Ac tortor dignissim <a href="">convallis</a> aenean et tortor at risus viverra adipiscing at? Urna neque viverra justo, nec ultrices dui sapien eget mi proin sed libero enim, sed faucibus turpis in?
+        </p>
+      </section>
+
+      <section>
+        <h2>Hasta pronto</h2>
         
-        <section>
-          <h2>Hola</h2>
-          <p>
-            Auctor elit sed vulputate mi sit amet mauris commodo quis. Lobortis feugiat vivamus at augue eget arcu dictum varius duis at consectetur lorem donec massa sapien, faucibus et molestie ac.  
-          </p>
-        </section>
+        <p>
+          Sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis.
+        </p>
+      </section>
 
-        <section>
-          <h2>Adios</h2>
-
-          <p>
-            Ac tortor dignissim <a href="">convallis</a> aenean et tortor at risus viverra adipiscing at? Urna neque viverra justo, nec ultrices dui sapien eget mi proin sed libero enim, sed faucibus turpis in?
-          </p>
-        </section>
-
-        <section>
-          <h2>Hasta pronto</h2>
-          
-          <p>
-            Sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis.
-          </p>
-        </section>
-
-        <section>
-          <h2>Hasta nunca</h2>
-          
-          <p>
-            Sapien pellentesque habitant morbi tristique senectus et netus et malesuada fames ac. Lacinia at quis risus sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit.
-          </p>
-        </section>
-
-
+      <section>
+        <h2>Hasta nunca</h2>
+        
+        <p>
+          Sapien pellentesque habitant morbi tristique senectus et netus et malesuada fames ac. Lacinia at quis risus sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit.
+        </p>
+      </section>
     </article>
-    
+
+    <!-- footer -->
+    <hr/>
     <footer>
       <sub>Corrientes, 2022</sub>
     </footer>

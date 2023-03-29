@@ -1,13 +1,15 @@
 
-
+// selecciona el div 'lista-registros'
 const target = document.getElementById("lista-registros");
 
+// y al cargar la pagina agrega los registros en el div target  
 window.onload = () => {
-  for(element in registers) {
-    href = registers[element]["href"]
-    author = registers[element]["author"]
-    year = registers[element]["year"]
-    
+    for(element in registers) {
+        // Aqui se puede agregar mas datos para los registros
+        href = registers[element]["href"]
+        author = registers[element]["author"]
+        year = registers[element]["year"]
+        
     target.innerHTML += `
       <section class="book">
         <a href='${href}'>${element}</a>
@@ -15,5 +17,5 @@ window.onload = () => {
         <sub>${author}, ${year}</sub>
       </section>
     `
-  }
+    }
 }

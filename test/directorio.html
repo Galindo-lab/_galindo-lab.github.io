@@ -7,16 +7,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="styles/base.css" rel="stylesheet">
 
+    <!-- se puede añadir un poco de interaccion con Javascript,
+         en este caso para tener que modificar la pagina cada vez
+         que se agrega un registro -->
+
+    <!-- Aqui estan las entradas, se pueden agregar más zines -->
     <script defer src="scripts/registers.js"></script>
+
+    <!-- Aqui esta el codigo que se encarga de cargar los registro -->
     <script defer src="scripts/register_loader.js"></script>
     
     <title>Directorio de Zines</title>
 
     <style>
 
-      header {
-          border-bottom: 1px solid var(--text-dark);
-      }
+      /* estilos que solo se usan en esta pagina */
       
       .book {
           padding-block: 1em;
@@ -52,9 +57,10 @@
         convallis dignissim. leo.
       </p>
     </header>
-    
+    <hr/>
     <a id="content"></a>
 
+    <!-- aquí javascript inserta los registro -->
     <article id="lista-registros">
     </article>
 

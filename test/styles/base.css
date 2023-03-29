@@ -1,16 +1,19 @@
 
+/*
+  cosas que son utilies para entender CSS:
+  - Box model 
+ */
+
 :root {                         /* Variables de CSS */
     --text-light: #D6D3D6;
     --text-dark: #0F0F0F;
     --text-muted: #595659;
     --text-white: #fff;
-    
     --bg-light: #D6D3D6;
     --bg-dark: #0F0F0F;
 }
 
-
-body {
+body {                          /* estilos que tienen todos */
     font-family: 'Helvetica', 'Arial', sans-serif;
     margin: 0;
     width: min(100% , 700px);
@@ -20,10 +23,41 @@ body {
     color: var(--text-dark);
 }
 
-header {   
+header {                        /* estilo de titulo*/
     padding: 1em;
 }
 
+section {
+    padding-inline: 1em;
+}
+
+article {
+    padding-block: 1em;
+}
+
+a {                             /* estilo de un link */
+    color: 1px solid var(--text-dark);
+    font-weight: bold;
+}
+
+p {                             /*estilo del parrafo*/
+    line-height: 1.6em;
+}
+
+hr {
+    border: 1px solid var(--text-dark);
+}
+
+.title-page {                   /* estilo de la pagina de inicio */
+    /*
+      este estilo es una 'clase' de css
+   */
+    background: linear-gradient(rgba(15,15,15,0.4),rgba(15,15,15,15.7)),url("../images/panel.jpg");
+    color: var(--text-white);
+    padding-top: 300px;
+}
+      
+/* estilos de la barra de navegacion */
 nav {
     padding-inline: 1em;
     padding-block: 1em;
@@ -45,28 +79,3 @@ nav ul {
 nav li {
     padding-left: 1rem;
 }
-
-section {
-    padding-inline: 1em;
-}
-
-article {
-    padding-block: 1em;
-}
-
-footer {
-    border-top: 1px solid var(--text-dark);
-    padding: 1em;
-    display: flex;
-}
-
-a {
-    color: 1px solid var(--text-dark);
-    font-weight: bold;
-}
-
-p {
-    line-height: 1.6em;
-}
-
-
