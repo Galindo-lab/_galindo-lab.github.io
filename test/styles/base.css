@@ -44,10 +44,6 @@ p {                             /*estilo del parrafo*/
     line-height: 1.6em;
 }
 
-hr {
-    border: 1px solid var(--text-dark);
-}
-
 .title-page {                   /* estilo de la pagina de inicio */
     /*
       este estilo es una 'clase' de css
