@@ -52,9 +52,14 @@ hr {
     /*
       este estilo es una 'clase' de css
    */
-    background: linear-gradient(rgba(15,15,15,0.4),rgba(15,15,15,15.7)),url("../images/panel.jpg");
-    color: var(--text-white);
     padding-top: 300px;
+    color: var(--text-white);
+
+    /*
+      Cambia el fondo por la imagen del taller y la obscurese un poco
+     */
+    background: linear-gradient(rgba(15,15,15,0.4),rgba(15,15,15,15.7)),
+                url("../images/panel.jpg");
 }
       
 /* estilos de la barra de navegacion */
