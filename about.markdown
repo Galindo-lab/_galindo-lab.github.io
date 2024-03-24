@@ -4,16 +4,23 @@ title: About
 permalink: /about/
 ---
 
-<div style="text-align:center;">
-    <img 
-        width="150px" 
-        src="https://media.licdn.com/dms/image/D5603AQHDrBDRF-nugQ/profile-displayphoto-shrink_800_800/0/1691625773372?e=1717027200&v=beta&t=emYKVVAyqfugGRSe1q3h9XgOkGqGugvpbMLKEHRmvEE"
-        style="border-radius:100px;"
-    >
-    <h1>Hola, soy Galindo</h1>
-    <p>Entusiasta de las matemáticas y los
-    lenguajes clásicos </p>
-</div> 
+<!-- <img  -->
+<!--     width="200px" -->
+<!--     src="https://avatars.githubusercontent.com/u/78140218?v=4"  -->
+<!--     style="padding-right:2em;"> -->
 
+Hola soy Galindo,
 
+Soy un estudiante de Ing. en software en Tijuana, México.
 
+Actualmente me encuentro terminado mi carrera.
+
+Me apaciona todo lo relacionado con la programacion. Me gusta mucho
+buscar soluciones nuevas a problemas comunes utilizando paradigmas
+alternativos. puedes encontrar mi trabajo en
+[Github](https://github.com/Galindo-lab).
+
+<br>
+
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&locale=es&bg_color=30,13181C,121A1C,0E3925&title_color=fff&text_color=fff&rank_icon=github) -->
+![Stats](https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&locale=es&rank_icon=github)
