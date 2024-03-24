@@ -22,5 +22,6 @@ alternativos. puedes encontrar mi trabajo en
 
 <br>
 
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&locale=es&bg_color=30,13181C,121A1C,0E3925&title_color=fff&text_color=fff&rank_icon=github) -->
-![Stats](https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&locale=es&rank_icon=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&locale=es&bg_color=30,13181C,121A1C,0E3925&title_color=fff&text_color=fff&rank_icon=github)
+
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=galindo-lab&show_icons=true&locale=es&rank_icon=github) -->
