@@ -1,19 +1,19 @@
 ---
-layout: page
+layout: base
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div style="text-align:center;">
+    <img 
+        width="150px" 
+        src="https://media.licdn.com/dms/image/D5603AQHDrBDRF-nugQ/profile-displayphoto-shrink_800_800/0/1691625773372?e=1717027200&v=beta&t=emYKVVAyqfugGRSe1q3h9XgOkGqGugvpbMLKEHRmvEE"
+        style="border-radius:100px;"
+    >
+    <h1>Hola, soy Galindo</h1>
+    <p>Entusiasta de las matemáticas y los
+    lenguajes clásicos </p>
+</div> 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
-a
